@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="PizzaApp" src="https://github.com/gianbrykczynski/Flutter-UI---Furniture-Online-App---Project/blob/master/assets/images/furniture_banner_app.png" width="400px">
+  <img alt="PizzaApp" src="https://github.com/gianbrykczynski/Flutter-Food-Delivery-App-UI-Flutter-UI-challenge-/blob/master/assets/app_pizza_banner.png" width="400px">
 </p>
 
 ---
