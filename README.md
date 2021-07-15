@@ -118,5 +118,5 @@ A construção da aplicação em questão me proporcionou obter conhecimentos re
 <h2 align="center">Agradecimento</h2>
 
 <p align="center">
-  <img alt="Tahseen Quraishi" title="Tahseen Quraishi" src="https://www.youtube.com/channel/UCAh9y-OH_PPsRoW75tduxaQ" />
+  <img alt="Tahseen Quraishi" title="Tahseen Quraishi" src="https://github.com/gianbrykczynski/Flutter-Food-Delivery-App-UI-Flutter-UI-challenge-/blob/master/assets/banner_channel_app.png" />
 </p>
